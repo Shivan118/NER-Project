@@ -1,7 +1,5 @@
-# DVC Project Template
-
-DVC Project Template
-
+# NER Project using Transfomer
+NER Project Template
 ## STEPS - 
 
 #### Step 1 - Create a repository by using template repository
